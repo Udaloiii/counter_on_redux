@@ -13,7 +13,7 @@
     text-align: center;
     font-size: 1.8rem;
     color: darkturquoise;
-    width: 50%;
+    width: 45%;
     height: 45px;
     outline: none;
     border: 1px solid #282828;
@@ -25,12 +25,12 @@
 
 input:hover {
     border: 1px solid #171717;
-    width: 55%;
-    height: 55px;
+    width: 50%;
+    height: 50px;
 }
 
 .inputOperationBlock {
-    width: 80%;
+    width: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,6 +39,6 @@ input:hover {
 
 .value {
     color: darkturquoise;
-    font-size: 4rem;
+    font-size: 3em;
     font-family: Chiller, sans-serif;
 }

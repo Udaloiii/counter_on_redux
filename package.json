@@ -1,8 +1,8 @@
 {
-  "name": "counter",
+  "name": "counter_on_redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Udaloiii.github.io/counter",
+  "homepage": "https://Udaloiii.github.com/counter_on_redux",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
