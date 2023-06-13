@@ -1,0 +1,44 @@
+
+.mainBox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.mainBox input {
+    background-color: #262626;
+    display: flex;
+    text-align: center;
+    font-size: 1.8rem;
+    color: darkturquoise;
+    width: 50%;
+    height: 45px;
+    outline: none;
+    border: 1px solid #282828;
+    border-radius: 15px;
+    caret-color: darkturquoise;
+}
+
+
+
+input:hover {
+    border: 1px solid #171717;
+    width: 55%;
+    height: 55px;
+}
+
+.inputOperationBlock {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.value {
+    color: darkturquoise;
+    font-size: 4rem;
+    font-family: Chiller, sans-serif;
+}
