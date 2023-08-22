@@ -19,14 +19,15 @@
     border: 1px solid #282828;
     border-radius: 15px;
     caret-color: darkturquoise;
+    transition: transform .5s;
 }
 
 
 
 input:hover {
-    border: 1px solid #171717;
-    width: 50%;
-    height: 50px;
+    border: 1px solid darkturquoise;
+    transform: scale(1.2);
+    transition: 0.3s;
 }
 
 .inputOperationBlock {
